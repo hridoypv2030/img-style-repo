@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Salsa', cursive;
+}
+
+
+.gtt{
+    color: brown;
+    background-image: url("../styles/imge/cow.jpg");
+    background-position: bottom center;
+    height:70vh ;
+    
+    
+}
+.gtt h1{color: aquamarine;
+font-size: 80px;
+text-align: center;
+font-weight: 900;
+/* padding: 60px; */
+font-family: 'Courier New', Courier, monospace;
+word-spacing: 20px;
+letter-spacing: 15px;
+padding-top: 60px;
+}
+.artical{
+    width: 90%;
+    margin-bottom: 30px;
+    /* margin-left:auto; */
+    /* margin-right: auto; */
+    /* margin-top: 50%; */
+
+   /* margin-top: 100px; */
+   margin: 60px auto;
+   /* margin-right: 100px; */
+   /* margin-left: 100px; */
+   /* margin-bottom: 100px; */
+   margin-top: 60px;
+  
+
+   background-color: aquamarine;
+   border: 10px solid crimson;
+   border-radius: 10px;
+   text-align: center;
+   border-width: 20px;
+   /* border-bottom: 20px; */
+    
+    
+    
+    
+    /* margin: auto; */
+}
